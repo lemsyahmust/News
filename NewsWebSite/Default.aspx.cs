@@ -16,7 +16,7 @@ namespace NewsWebSite
 
         protected void btnregistre_Click(object sender, EventArgs e)
         {
-            SqlDataSource1.Insert();
+            
         }
     }
 }
